@@ -1,0 +1,7 @@
+C:\Users\gustavo.rssilva3\Documents\Visual Studio 2022\atividade29-01\ex03\ex03\bin\Debug\ex03.exe.config
+C:\Users\gustavo.rssilva3\Documents\Visual Studio 2022\atividade29-01\ex03\ex03\bin\Debug\ex03.exe
+C:\Users\gustavo.rssilva3\Documents\Visual Studio 2022\atividade29-01\ex03\ex03\bin\Debug\ex03.pdb
+C:\Users\gustavo.rssilva3\Documents\Visual Studio 2022\atividade29-01\ex03\ex03\obj\Debug\ex03.csproj.AssemblyReference.cache
+C:\Users\gustavo.rssilva3\Documents\Visual Studio 2022\atividade29-01\ex03\ex03\obj\Debug\ex03.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.rssilva3\Documents\Visual Studio 2022\atividade29-01\ex03\ex03\obj\Debug\ex03.exe
+C:\Users\gustavo.rssilva3\Documents\Visual Studio 2022\atividade29-01\ex03\ex03\obj\Debug\ex03.pdb
